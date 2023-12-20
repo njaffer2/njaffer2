@@ -1,35 +1,30 @@
-<h1 align="center">Hi 👋, I'm Nusrat Jaffer</h1>
+# Hi there, I'm Nusrat Jaffer! 👋
 
-- 🔭 I’m currently working on **building up my GitHub profile with data science projects.**
+🔭 Currently, I'm passionate about **building an impressive GitHub profile through exciting data science projects**.
 
-- 🌱 I’m currently learning **the basics of Exploratory Data Analysis (EDA), Prediction (Regression), Prediction (Classification), Cluster analysis (Unclassified data) and Advanced data science (Deep Learning).**
+🌱 I'm diving deep into **Exploratory Data Analysis (EDA), Regression, Classification Prediction, Cluster Analysis for Unclassified Data, and Advanced Data Science like Deep Learning**.
 
-- 👯 I’m looking to collaborate on **any of the presented data-science projects or open to other projects**
+👯 I'm open to **collaborate on any data science project or explore new opportunities**.
 
-- 🤝 I’m looking for help with **front end applications, ideally displaying the data-science results on a website.**
+🤝 Seeking help with **front-end applications, particularly in showcasing data science results on websites**.
 
-- 👨‍💻 All of my data science projects are available at [https://github.com/njaffer2/Data-Science](https://github.com/njaffer2/Data-Science)
+👨‍💻 Explore all my data science projects on [GitHub](https://github.com/njaffer2/Data-Science).
 
-- 💬 Ask me about **anything data-science related, and I'll be happy to help you out. I love talking about this!**
+💬 Ask me about **anything data science-related; I love engaging in meaningful conversations**!
 
-- 📫 How to reach me **[email](mailto:njaffer2@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) me or connect on LinkedIn.**
+📫 Connect with me: **Feel free to [email me](mailto:njaffer2@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) or find me on [LinkedIn](https://linkedin.com/in/nusratkhowaja)**.
 
-- ⚡ Fun fact **I enjoy reading books when I'm not coding.**
+⚡ Fun fact: **When I'm not coding, you'll likely find me lost in a good book**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nusratkhowaja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nusrat jaffer" height="30" width="40" /></a>
-</p>
+## Connect with me:
+- [LinkedIn](https://linkedin.com/in/nusratkhowaja)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a>Python</a> <br>
-  <a>SQL</a> <br>
-  <a>Scikit-Learn</a> <br>
-  <a>Pycaret</a> <br>
-  <a>FastAPI</a> <br>
-  <a>Streamlit</a> <br>
-  <a>H2O.io</a> <br>
-  <a>MLOps (Google Cloud /AWS)</a>
-</p>
-
+## Languages and Tools:
+- Python
+- SQL
+- Scikit-Learn
+- Pycaret
+- FastAPI
+- Streamlit
+- H2O.io
+- MLOps (Google Cloud / AWS)

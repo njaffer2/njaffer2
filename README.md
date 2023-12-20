@@ -22,4 +22,13 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a> Python--SQL--Scikit-Learn--Pycaret--FastAPI--Streamlit--</a> </p>
+<p align="left"> <a> 
+  Python
+  SQL
+  Scikit-Learn
+  Pycaret
+  FastAPI
+  Streamlit
+  H2O.io
+  MLOps (Google Cloud /AWS)
+</a> </p>

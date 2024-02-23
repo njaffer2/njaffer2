@@ -6,8 +6,6 @@
 
 👯 I'm open to **collaborate on any data science project or explore new opportunities**.
 
-🤝 Seeking help with **front-end applications, particularly in showcasing data science results on websites**.
-
 👨‍💻 Explore all my data science projects on [GitHub](https://github.com/njaffer2/Data-Science).
 
 💬 Ask me about **anything data science-related; I love engaging in meaningful conversations**!

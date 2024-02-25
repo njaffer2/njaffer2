@@ -1,4 +1,4 @@
-![Designer Image](https://github.com/njaffer2/images/blob/main/Designer.png)
+<img src="https://github.com/njaffer2/images/blob/main/Designer.png" alt="Designer Image" width="200" height="200">
 
 # Hey there, I'm Nusrat Jaffer! 👋
 

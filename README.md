@@ -1,8 +1,6 @@
-<img src="https://github.com/njaffer2/images/blob/main/Designer.png" alt="Designer Image" style="max-height: 50px;">
-
 # Hey there, I'm Nusrat Jaffer! 👋
 
-🔭 **Data Science Explorer**: Imagine a cosmic map where data points twinkle like distant stars. That's where I thrive—unraveling patterns, predicting trends, and turning raw data into celestial insights. My GitHub profile is my telescope, capturing constellations of captivating projects.
+🌟 **Data Science Explorer**: Imagine a cosmic map where data points twinkle like distant stars. That's where I thrive—unraveling patterns, predicting trends, and turning raw data into celestial insights. My GitHub profile is my telescope, capturing constellations of captivating projects.
 
 🌱 **Navigating the Data Universe**: Picture me as a cosmic cartographer, charting unexplored territories. My compass? **Exploratory Data Analysis (EDA)**. I dissect datasets like a curious detective, revealing hidden constellations. Regression, classification, and cluster analysis? They're my star charts. And when the data cosmos demands it, I don my cosmic cape for **Deep Learning** quests.
 
@@ -16,7 +14,7 @@
 
 ⚡ **Fun Fact**: When I'm not deciphering data constellations, I'm sipping coffee, cuddling with my feline co-pilot, or whispering secrets to imaginary unicorns. Oh, and occasionally, I get lost in a good book from a parallel universe.
 
-## Connect with me:
+## Connect with Me:
 - LinkedIn
 
 ## Languages and Tools:

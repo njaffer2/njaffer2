@@ -1,3 +1,5 @@
+![Designer Image](https://github.com/njaffer2/images/blob/main/Designer.png)
+
 # Hey there, I'm Nusrat Jaffer! 👋
 
 🔭 **Data Science Explorer**: Imagine a cosmic map where data points twinkle like distant stars. That's where I thrive—unraveling patterns, predicting trends, and turning raw data into celestial insights. My GitHub profile is my telescope, capturing constellations of captivating projects.

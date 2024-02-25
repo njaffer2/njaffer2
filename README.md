@@ -1,4 +1,4 @@
-<img src="https://github.com/njaffer2/images/blob/main/Designer.png" alt="Designer Image"  height="200">
+<img src="https://github.com/njaffer2/images/blob/main/Designer.png" alt="Designer Image" height="200">
 
 # Hey there, I'm Nusrat Jaffer! 👋
 

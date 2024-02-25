@@ -12,7 +12,7 @@
 
 📫 Connect with me: **Feel free to [email me](mailto:njaffer2@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) or find me on [LinkedIn](https://linkedin.com/in/nusratkhowaja)**.
 
-⚡ Fun fact: **When I'm not coding, you'll likely find me lost in a good book**.
+⚡ Fun fact: **Cat lover, coffee addict, and occasional unicorn whisperer. When I'm not coding, you'll likely find me lost in a good book**.
 
 ## Connect with me:
 - [LinkedIn](https://linkedin.com/in/nusratkhowaja)
